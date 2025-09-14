@@ -41,3 +41,6 @@
 /Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/MediatR.dll
 /Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/MediatR.Contracts.dll
 /Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Mapster.dll
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Mapster.Core.dll
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Mapster.DependencyInjection.dll

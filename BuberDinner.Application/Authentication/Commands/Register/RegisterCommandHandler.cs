@@ -20,6 +20,7 @@ public class RegisterCommandHandler : IRequestHandler<RegisterCommand, ErrorOr<A
     }
     public async Task<ErrorOr<AuthenticationResult>> Handle(RegisterCommand command, CancellationToken cancellationToken)
     {
+        await Task.CompletedTask; // to make it async
         // 1. Check if user already does not exists
         var existingUser = _userRepository.GetUserByEmail(command.Email);
         if (existingUser is not null)

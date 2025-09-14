@@ -1,0 +1,15 @@
+# .gitignore dosyana aşağıdakileri ekle:
+bin/
+obj/
+*.user
+*.DS_Store
+
+# Daha önce commitlenmiş gereksiz dosyaları Git’ten çıkar
+git rm -r --cached bin obj **/.DS_Store
+
+# Tekrar commit et
+git add .
+git commit -m "Clean initial commit - added source files only"
+
+# Push et
+git push origin main --force

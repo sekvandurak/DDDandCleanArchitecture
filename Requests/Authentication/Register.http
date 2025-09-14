@@ -1,0 +1,12 @@
+POST https://localhost:7018/auth/register 
+Content-Type: application/json
+
+{
+  "firstName": "Sekvan",
+  "lastName": "Durak",
+  "email": "sekvan@gmail.com",
+  "password": "P@ssword1"
+}   
+
+### second request to login and get token
+

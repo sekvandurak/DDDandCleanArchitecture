@@ -1,0 +1,17 @@
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Infrastructure.deps.json
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Infrastructure.dll
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Infrastructure.pdb
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Application.dll
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Domain.dll
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Application.pdb
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Domain.pdb
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.AssemblyInfo.cs
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.csproj.CopyComplete
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.dll
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/refint/BuberDinner.Infrastructure.dll
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.pdb
+/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/ref/BuberDinner.Infrastructure.dll

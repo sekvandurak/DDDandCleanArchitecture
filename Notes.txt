@@ -1,0 +1,29 @@
+Filters ve Middleware devrede değil şuan eski kodlar kaldı.
+
+
+Global Ex Handler 
+
+package ErrorOr
+
+public ErrorOr<AuthenticationResult> Login(string email, string password)
+    {
+        //1. Validate the user exists
+        if (_userRepository.GetUserByEmail(email) is not User user)
+        {
+            return Errors.Authentication.InvalidCredentials;  // tek hata 
+        }
+        //2. Validate the password is correct
+
+        if (user.Password != password)
+        {
+            return new[] { Errors.Authentication.InvalidCredentials }; // hatalar listesi
+        }
+
+        //3. Create JWT token
+        var token = _jwTokenGenerator.GenerateToken(user);
+
+        return new AuthenticationResult( // ya da bir sonuc ve okunabilirlik yuksek seviyede
+
+                user,
+                token);
+    }

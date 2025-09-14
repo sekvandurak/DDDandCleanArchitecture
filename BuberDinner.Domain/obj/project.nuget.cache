@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g9ojS4WXgWnmHtUUz6soe5X3Yrqzm2uEku7g40syAuhZcTjHdHkgcUXLFE7M4izZxVok050KeFcV4MZ4TcrXIg==",
+  "success": true,
+  "projectFilePath": "/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/sekvan/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

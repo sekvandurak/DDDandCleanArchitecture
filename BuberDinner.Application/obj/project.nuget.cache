@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VN6j4Hbq6/hjestFQNHS04Xx16rcAZj3Xb1SzX0NvpoN2ggzsS5llXuj8dOlJjLftpymTMxdIsC1sYNr452I2A==",
+  "success": true,
+  "projectFilePath": "/Users/sekvan/Development/projects/CleanArchDDD/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/sekvan/.nuget/packages/erroror/2.0.1/erroror.2.0.1.nupkg.sha512",
+    "/Users/sekvan/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/sekvan/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/sekvan/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.0.0/mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/sekvan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
